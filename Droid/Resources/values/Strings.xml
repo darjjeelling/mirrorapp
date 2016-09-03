@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="app_name">Mirror</string>
+	<string name="picture">Picture</string>
+    <string name="frip_mode">Flip mode</string>
+    <string name="mirror_mode">Mirror mode</string>
+    <string name="pause">Pause</string>
+	<string name="settings_general">General</string>
+	<string name="settings_appname">Mirror Mirror</string>
+	<string name="settings_support">Support</string>
+	<string name="settings_site">Official Site</string>
+</resources>

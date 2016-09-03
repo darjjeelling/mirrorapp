@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+
+<resources>
+	<string name="app_name">ミラー</string>
+	<string name="picture">Picture</string>
+    <string name="frip_mode">相手から見たモード</string>
+    <string name="mirror_mode">通常の鏡モード</string>
+    <string name="pause">一時停止</string>
+	<string name="settings_general">一般</string>
+	<string name="settings_appname">鏡ミラー</string>
+	<string name="settings_support">サポート</string>
+	<string name="settings_site">公式サイト</string>
+</resources>
