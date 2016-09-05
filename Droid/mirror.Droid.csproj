@@ -37,11 +37,12 @@
     <ConsolePause>false</ConsolePause>
     <AndroidUseSharedRuntime>false</AndroidUseSharedRuntime>
     <AndroidLinkMode>SdkOnly</AndroidLinkMode>
-    <AndroidKeyStore>True</AndroidKeyStore>
+    <AndroidKeyStore></AndroidKeyStore>
     <AndroidSigningKeyStore></AndroidSigningKeyStore>
     <AndroidSigningKeyAlias></AndroidSigningKeyAlias>
     <AndroidSigningStorePass></AndroidSigningStorePass>
     <AndroidSigningKeyPass></AndroidSigningKeyPass>
+    <AndroidSupportedAbis>armeabi-v7a</AndroidSupportedAbis>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />

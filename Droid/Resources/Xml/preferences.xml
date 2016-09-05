@@ -6,7 +6,7 @@
             	android:selectable="false"
                 android:key="edittext_preference1"
                 android:title="@string/settings_appname"
-                android:summary="version 1.0" />
+                android:summary="version 1.0.1" />
 	</PreferenceCategory>
 
 	<PreferenceCategory android:title="@string/settings_support">

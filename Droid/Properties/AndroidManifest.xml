@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
-<manifest xmlns:android="http://schemas.android.com/apk/res/android" android:versionCode="1" android:versionName="1.0" package="com.darjjeelling.app.mirror">
-	<uses-sdk android:minSdkVersion="19" />
+<manifest xmlns:android="http://schemas.android.com/apk/res/android" android:versionName="1.0.1" package="com.darjjeelling.app.mirror" android:versionCode="2">
+	<uses-sdk android:minSdkVersion="21" />
 	<application android:label="mirror" android:hardwareAccelerated="true" android:icon="@mipmap/ic_launcher"></application>
 	<uses-permission android:name="android.permission.CAMERA" />
 </manifest>
